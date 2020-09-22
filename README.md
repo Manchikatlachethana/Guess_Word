@@ -2,7 +2,7 @@
 ## WORD GUESS GAME!
 ### LATEST VERSION OF THE GAME IS OUT NOW!: 
    # Modifiactions(version 2):
-   * bug fixes
+   * Bug fixes.
    * Increase in game difficulty!
    * Using some basic functionalities of modules,class and objects.
 ### TRY THE GAME... 
