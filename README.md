@@ -2,7 +2,7 @@
 ### 2.NUMBER GUESS GAME!
 ## Simple Version of Game:
    * Fun with Numbers.
-   * For Basic Learners.
+   * For Beginners.
    ## Download number_guess.py:
     - just run the code to play game!    
 # -----------------------------------
@@ -22,6 +22,6 @@
         3.Guess_Words_lib.py
    - Run guess_main.py file to play.
    ## Simple Version of Game:
-   * Can be tried by basic coding learners.
+   * Can be tried by beginners.
    ## Download word_guess.py:
     - just run code to play game!
