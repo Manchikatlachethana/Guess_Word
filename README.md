@@ -4,7 +4,7 @@
    * Fun with Numbers.
    * For Basic Learners.
    ## Download number_guess.py:
-    * just run the code to play game!    
+    - just run the code to play game!    
 # -----------------------------------
 ## 1.WORD GUESS GAME!
 ### LATEST VERSION OF THE GAME IS OUT NOW!
@@ -24,4 +24,4 @@
    ## Simple Version of Game:
    * Can be tried by basic coding learners.
    ## Download word_guess.py:
-    * just run code to play game!
+    - just run code to play game!
