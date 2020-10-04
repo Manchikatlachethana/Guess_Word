@@ -7,14 +7,14 @@ print('To play game,Clearly follow rules..')
 time.sleep(1)
 print('1.Enter your details')
 time.sleep(1)
-print('2.you should give the range between which numbers, you wanna guess')
+print('2.You should give the range between which numbers, you wanna guess')
 time.sleep(1)
-print('3.try to give larger range.(ex:0-100)')
-print('4.you will be given limited number of attempts to guess')
+print('3.Try to give larger range.(ex:0-100)')
+print('4.You will be given limited number of attempts to guess')
 time.sleep(1)
-print('5.if you guessed with in the chances ,then you did it!')
+print('5.If you guessed with in the chances ,then you did it!')
 time.sleep(1)
-print('6.if not you lost!')
+print('6.If not you lost!')
 
 #user details
 name=input('Enter your name:')
@@ -33,7 +33,7 @@ print('you have',choices,'chances')
 count=0
 while count<choices:
 	count+=1
-	guess=int(input('guess the number:'))
+	guess=int(input('Guess the number:'))
 	if guess==guessnum:
 		print('Congratulations!')
 		print(name,'won in',count,'attempts')
